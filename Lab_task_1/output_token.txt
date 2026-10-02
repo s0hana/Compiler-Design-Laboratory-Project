@@ -1,0 +1,39 @@
+Line 1: Identifier -> void
+Line 1: Identifier -> main
+Line 1: Symbol -> (
+Line 1: Symbol -> )
+Line 1: Newline
+Line 2: Symbol -> {
+Line 2: Newline
+Line 3: Identifier -> int
+Line 3: Identifier -> i
+Line 3: Symbol -> ;
+Line 3: Newline
+Line 4: Identifier -> int
+Line 4: Identifier -> j
+Line 4: Operator -> =
+Line 4: Number -> 5
+Line 4: Symbol -> ,
+Line 4: Identifier -> k
+Line 4: Operator -> =
+Line 4: Number -> 10
+Line 4: Symbol -> ;
+Line 4: Newline
+Line 5: Identifier -> i
+Line 5: Operator -> =
+Line 5: Identifier -> j
+Line 5: Operator -> +
+Line 5: Identifier -> k
+Line 5: Symbol -> ;
+Line 5: Newline
+Line 6: Identifier -> printf
+Line 6: Symbol -> (
+Line 6: Operator -> %
+Line 6: Identifier -> d
+Line 6: Symbol -> ,
+Line 6: Identifier -> i
+Line 6: Symbol -> )
+Line 6: Symbol -> ;
+Line 6: Newline
+Line 7: Newline
+Line 8: Symbol -> }

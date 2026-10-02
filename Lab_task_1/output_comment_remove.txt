@@ -1,0 +1,1 @@
+void main() { int i; int j = 5, k = 10; i = j+k; printf("%d", i); }

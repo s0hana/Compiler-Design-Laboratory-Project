@@ -1,0 +1,9 @@
+void main()
+{
+    int i;
+    int j = 5, k = 10;
+    i = j+k; // j and k are already decleared
+    printf("%d", i);
+    /* Add identifier in the
+    symbol table */
+}
